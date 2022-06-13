@@ -31,8 +31,9 @@ The **data dictionary** can be accessed here: [DataSF Data Dictionary for Air Tr
 **Kaggle Notebook Link:** [https://www.kaggle.com/prajita/nb-san-francisco-air-cargo-traffic-analysis](https://www.kaggle.com/prajita/nb-san-francisco-air-cargo-traffic-analysis)
 
 ## File Descriptions:
-nb-san-francisco-air-cargo-traffic-analysis.ipynb : Python Notebook
-Air_Traffic_Cargo_Statistics.csv.zip : Data File used for analysis (Sources from above mentioned Kaggle Link)
+**Python Notebook** : nb-san-francisco-air-cargo-traffic-analysis.ipynb 
+
+**Data File used for analysis (Sources from above mentioned Kaggle Link)**: Air_Traffic_Cargo_Statistics.csv.zip : 
 
 ## Key Sections
 
